@@ -1,0 +1,20 @@
+Author: Alex Rich, MPH https://www.linkedin.com/in/alex-rich-940651a8/
+alex.rich@unc.edu
+I'm a former Air Force special operations pilot and crash investigator with a Masters in Public Health from Yale university. I'm currently completing a PhD in health informatics at UNC Chapel Hill. I look at public health crises with the tools of aviation safety, focusing on data analysis and visual communication.
+
+# Python version 3.7.3
+## Package Versions:
+# wget==3.2
+# pandas==1.1.1
+
+
+This analysis utilizes data from the Johns Hopkins University Github and an epidemiological concept known as Relative Risk Ratios to extimate the comparative probabilities of Covid-19 deaths between the two groups.
+
+JHU data: https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv
+
+AARP Mask Mandate data: https://www.aarp.org/health/healthy-living/info-2020/states-mask-mandates-coronavirus.html
+
+County population 2019 data: https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-total.html![image.png](attachment:image.png)
+
+CDC Relative Risk Ratio calculation methodology: Principles of Epidemiology in Public Health Practice, Third Edition An Introduction to Applied Epidemiology and Biostatistics (https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section5.html)
+
