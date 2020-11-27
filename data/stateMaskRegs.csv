@@ -1,51 +1,52 @@
-state,maskReg,dateOfReg,,,,
-alabama,yes,16 Jul 20,,,,
-alaska,no,,,,,
-arizona,no,,,,,
-arkansas,yes,16 Jul 20,,,,
-california,yes,18 Jun 20,,,,
-colorado,yes,17 Jul 20,,,,
-delaware,yes,17 Apr 20,,,,
-dc,yes,22 Jul 20,,,,
-florida,no,,,,,
-georgia,no,,,,,
-hawaii,yes,,,,,
-idaho,no,,,,,
-illinois,yes,27 Jul 20,,,,
-indiana,yes,27 Jul 20,,,,
-iowa,no,,,,,
-kansas,yes,2 Jul 20,,,,
-kentucky,yes,9 Jul 20,,,,
-louisiana,yes,11 Jul 20,,,,
-maine,yes,1 May 20,,,,
-maryland,yes,31 Jul 20,,,,
-massachusetts,yes,6 May 20,,,,
-michigan,yes,5 Oct 20,,,,
-minnesota,yes,25 Jul 20,,,,
-mississippi,no,,,,,
-missouri,no,,,,,
-montana,yes,15 Jul 20,,,,
-nebraska,no,,,,,
-nevada,yes,24 Jun 20,,,,
-new hampshire,no,,,,,
-new jersey,yes,16 May 20,,,,
-new york,yes,17 Apr 20,,,,
-new mexico,,,,,,
-north carolina,yes,24 Jun 20,,,,
-north dakota,no,,,,,
-ohio,yes,23 Jul 20,,,,
-oklahoma,no,,,,,
-oregon,yes,1 Jul 20,,,,
-pennsylvania,yes,1 Jul 20,,,,
-rhode island,yes,8 May 20,,,,
-south carolina,no,,,,,
-south dakota,no,,,,,
-tennessee,no,,,,,
-texas,yes,3 Jul 20,,,,
-utah,no,,,,,
-vermont,yes,1 Aug 20,,,,
-virginia,yes,26 May 20,,,,
-washington,yes,26 Jun 20,,,,
-west virginia,yes,6 Jul 20,,,,
-wisconsin,yes,1 Aug 20,,,,
-wyoming,no,,,,,
+state,maskReg,dateOfReg
+alabama,yes,16-Jul-20
+alaska,no,
+arizona,no,
+arkansas,yes,16-Jul-20
+california,yes,18-Jun-20
+colorado,yes,17-Jul-20
+connecticut,yes,17-Apr-20
+delaware,yes,17-Apr-20
+district of columbia,yes,22-Jul-20
+florida,no,
+georgia,no,
+hawaii,yes,24-Apr-20
+idaho,no,
+illinois,yes,27-Jul-20
+indiana,yes,27-Jul-20
+iowa,no,
+kansas,yes,2-Jul-20
+kentucky,yes,9-Jul-20
+louisiana,yes,11-Jul-20
+maine,yes,1-May-20
+maryland,yes,31-Jul-20
+massachusetts,yes,6-May-20
+michigan,yes,5-Oct-20
+minnesota,yes,25-Jul-20
+mississippi,no,
+missouri,no,
+montana,yes,15-Jul-20
+nebraska,no,
+nevada,yes,24-Jun-20
+new hampshire,no,
+new jersey,yes,16-May-20
+new york,yes,17-Apr-20
+new mexico,yes,16-May-20
+north carolina,yes,24-Jun-20
+north dakota,yes,14-Nov-20
+ohio,yes,23-Jul-20
+oklahoma,no,
+oregon,yes,1-Jul-20
+pennsylvania,yes,1-Jul-20
+rhode island,yes,8-May-20
+south carolina,no,
+south dakota,no,
+tennessee,no,
+texas,yes,3-Jul-20
+utah,no,9-Nov-20
+vermont,yes,1-Aug-20
+virginia,yes,26-May-20
+washington,yes,26-Jun-20
+west virginia,yes,6-Jul-20
+wisconsin,yes,1-Aug-20
+wyoming,no,

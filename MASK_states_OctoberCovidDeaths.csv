@@ -293,13 +293,6 @@ Out of DC,district of columbia,0,0,
 Unassigned,district of columbia,0,0,
 ,grand princess,3,3,
 ,guam,49,79,
-Hawaii,hawaii,15,31,201513.0
-Honolulu,hawaii,111,170,974563.0
-Kalawao,hawaii,0,0,86.0
-Kauai,hawaii,0,0,72293.0
-Maui,hawaii,9,17,167417.0
-Out of HI,hawaii,1,1,
-Unassigned,hawaii,0,0,
 Adams,illinois,10,25,65435.0
 Alexander,illinois,1,1,5761.0
 Bond,illinois,6,9,16426.0
@@ -597,7 +590,7 @@ Stevens,kansas,1,1,5485.0
 Sumner,kansas,3,3,22836.0
 Thomas,kansas,0,2,7777.0
 Trego,kansas,3,3,2803.0
-Unassigned,kansas,0,0,
+Unassigned,kansas,9,4,
 Wabaunsee,kansas,1,1,6931.0
 Wallace,kansas,0,0,1518.0
 Washington,kansas,0,0,5406.0
@@ -1331,6 +1324,61 @@ Wilkes,north carolina,34,38,68412.0
 Wilson,north carolina,53,64,81801.0
 Yadkin,north carolina,9,9,37667.0
 Yancey,north carolina,0,1,18069.0
+Adams,north dakota,0,0,2216.0
+Barnes,north dakota,0,1,10415.0
+Benson,north dakota,6,10,6832.0
+Billings,north dakota,0,0,928.0
+Bottineau,north dakota,4,17,6282.0
+Bowman,north dakota,0,2,3024.0
+Burke,north dakota,1,1,2115.0
+Burleigh,north dakota,48,78,95626.0
+Cass,north dakota,77,85,181923.0
+Cavalier,north dakota,0,1,3762.0
+Dickey,north dakota,0,4,4872.0
+Divide,north dakota,0,1,2264.0
+Dunn,north dakota,1,5,4424.0
+Eddy,north dakota,3,3,2287.0
+Emmons,north dakota,2,9,3241.0
+Foster,north dakota,0,2,3210.0
+Golden Valley,north dakota,0,0,1761.0
+Grand Forks,north dakota,13,22,69451.0
+Grant,north dakota,1,4,2274.0
+Griggs,north dakota,1,1,2231.0
+Hettinger,north dakota,0,2,2499.0
+Kidder,north dakota,0,2,2480.0
+LaMoure,north dakota,0,11,4046.0
+Logan,north dakota,0,3,1850.0
+McHenry,north dakota,1,14,5745.0
+McIntosh,north dakota,3,5,2497.0
+McKenzie,north dakota,2,4,15024.0
+McLean,north dakota,4,10,9450.0
+Mercer,north dakota,1,3,8187.0
+Morton,north dakota,28,54,31364.0
+Mountrail,north dakota,2,9,10545.0
+Nelson,north dakota,0,3,2879.0
+Oliver,north dakota,0,2,1959.0
+Out of ND,north dakota,0,0,
+Pembina,north dakota,0,0,6801.0
+Pierce,north dakota,0,1,3975.0
+Ramsey,north dakota,2,4,11519.0
+Ransom,north dakota,0,3,5218.0
+Renville,north dakota,1,2,2327.0
+Richland,north dakota,1,4,16177.0
+Rolette,north dakota,5,9,14176.0
+Sargent,north dakota,0,2,3898.0
+Sheridan,north dakota,0,1,1315.0
+Sioux,north dakota,3,5,4230.0
+Slope,north dakota,0,0,750.0
+Stark,north dakota,14,34,31489.0
+Steele,north dakota,0,0,1890.0
+Stutsman,north dakota,3,7,20704.0
+Towner,north dakota,0,5,2189.0
+Traill,north dakota,0,5,8036.0
+Unassigned,north dakota,0,0,
+Walsh,north dakota,1,2,10641.0
+Ward,north dakota,11,54,67641.0
+Wells,north dakota,0,0,3834.0
+Williams,north dakota,7,18,37589.0
 ,northern mariana islands,2,2,
 Adams,ohio,4,6,27698.0
 Allen,ohio,72,80,102351.0
@@ -1857,7 +1905,7 @@ Walker,texas,57,62,72971.0
 Waller,texas,14,17,55246.0
 Ward,texas,1,1,11998.0
 Washington,texas,48,50,35882.0
-Webb,texas,297,355,276652.0
+Webb,texas,306,353,276652.0
 Wharton,texas,52,60,41556.0
 Wheeler,texas,0,0,5056.0
 Wichita,texas,24,49,132230.0
@@ -1872,6 +1920,43 @@ Yoakum,texas,5,7,8713.0
 Young,texas,6,10,18010.0
 Zapata,texas,6,9,14179.0
 Zavala,texas,16,19,11840.0
+Bear River,utah,11,18,
+Beaver,utah,0,0,6710.0
+Box Elder,utah,0,0,56046.0
+Cache,utah,0,0,128289.0
+Carbon,utah,0,0,20463.0
+Central Utah,utah,3,10,
+Daggett,utah,0,0,950.0
+Davis,utah,30,42,355481.0
+Duchesne,utah,0,0,19938.0
+Emery,utah,0,0,10012.0
+Garfield,utah,0,0,5051.0
+Grand,utah,0,0,9754.0
+Iron,utah,0,0,54839.0
+Juab,utah,0,0,12017.0
+Kane,utah,0,0,7886.0
+Millard,utah,0,0,13188.0
+Morgan,utah,0,0,12124.0
+Out of UT,utah,0,0,
+Piute,utah,0,0,1479.0
+Rich,utah,0,0,2483.0
+Salt Lake,utah,253,308,1160437.0
+San Juan,utah,29,30,15308.0
+Sanpete,utah,0,0,30939.0
+Sevier,utah,0,0,21620.0
+Southeast Utah,utah,1,5,
+Southwest Utah,utah,34,57,
+Summit,utah,1,1,42145.0
+Tooele,utah,0,4,72259.0
+TriCounty,utah,2,3,
+Uintah,utah,0,0,35734.0
+Unassigned,utah,0,0,
+Utah,utah,57,81,636235.0
+Wasatch,utah,7,9,34091.0
+Washington,utah,0,0,177556.0
+Wayne,utah,0,0,2711.0
+Weber,utah,0,0,260213.0
+Weber-Morgan,utah,31,36,
 Addison,vermont,2,2,36777.0
 Bennington,vermont,1,1,35470.0
 Caledonia,vermont,0,0,29993.0
